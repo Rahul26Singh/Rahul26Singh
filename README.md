@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahul26Singh
+- 👋 Hi, I’m @Rahul26Singh-Rahul Singh
 - 👀 I’m interested in condensed matter and material physics.
 - 🌱 I’m currently learning how to code using python and the trying to give the physical meaning to the experimental data. 
 - 💞️ I’m looking to collaborate on theoretical framework on magnetism in nanomaterials.
